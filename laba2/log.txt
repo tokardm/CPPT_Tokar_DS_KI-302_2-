@@ -1,0 +1,7 @@
+Gun initialized with model: Glock-17
+Default Gun created with model: Glock-17
+Gun fired.
+Gun reloaded.
+Barrel caliber set to: 7.62
+Trigger material set to: Steel
+Manufacture year set to: 2022
