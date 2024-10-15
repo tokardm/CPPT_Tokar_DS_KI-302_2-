@@ -1,0 +1,39 @@
+Gun initialized with model: Super Soaker
+WaterGun initialized with water level: 100
+Default WaterGun created with model: Super Soaker
+WaterGun fired. Water level: 90
+Gun reloaded.
+WaterGun refilled to full capacity.
+WaterGun fired. Water level: 90
+Barrel caliber set to: 0.5
+Trigger material set to: Plastic
+Gun initialized with model: Super Soaker
+WaterGun initialized with water level: 100
+Default WaterGun created with model: Super Soaker
+WaterGun fired. Water level: 90
+Gun reloaded.
+WaterGun refilled to full capacity.
+WaterGun fired. Water level: 90
+Barrel caliber set to: 0.5
+Trigger material set to: Plastic
+Manufacture year set to: 2023
+Gun initialized with model: Super Soaker
+WaterGun initialized with water level: 100
+Default WaterGun created with model: Super Soaker
+WaterGun fired. Water level: 90
+Gun reloaded.
+WaterGun refilled to full capacity.
+WaterGun fired. Water level: 90
+Barrel caliber set to: 0.5
+Trigger material set to: Plastic
+Manufacture year set to: 2023
+Gun initialized with model: Super Soaker
+WaterGun initialized with water level: 100
+Default WaterGun created with model: Super Soaker
+WaterGun fired. Water level: 90
+Gun reloaded.
+WaterGun refilled to full capacity.
+WaterGun fired. Water level: 90
+Barrel caliber set to: 0.5
+Trigger material set to: Plastic
+Manufacture year set to: 2023
