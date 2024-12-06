@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|c:\\users\\tokar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0456\u043F\u0437_\u043F\u0440\u0438\u0439\u043C\u0430\u043A\\lab_2\\ipz_lab\\ipz_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\timetable_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\timetable_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\ticket_booking_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\ticket_booking_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\start_window_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\start_window_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\registration_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\registration_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\film_search_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\film_search_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\film_info_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\film_info_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\datagridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\datagridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\buying_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\buying_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\ipz_lab\\timetable_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}|IPZ_LAB\\IPZ_LAB.csproj|solutionrelative:ipz_lab\\timetable_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Registration_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Registration_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Registration_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Registration_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Start_Window_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Start_Window_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Start_Window_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Start_Window_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Start_Window_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket_Booking_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Ticket_Booking_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Ticket_Booking_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Ticket_Booking_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Ticket_Booking_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:31.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timetable_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Timetable_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Timetable_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Timetable_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Timetable_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:30.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Program.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Program.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Program.cs",
+              "RelativeToolTip": "IPZ_LAB\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:00:03.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Login_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Login_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Login_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Login_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:24.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Form1.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Form1.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:25.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Film_Search_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Film_Search_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Film_Search_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Film_Search_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Film_Search_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:21:27.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Film_Info_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Film_Info_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Film_Info_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Film_Info_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Film_Info_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:11:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dataGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\dataGridForm.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\dataGridForm.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\dataGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\dataGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:15:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Buying_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Buying_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Buying_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Buying_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "IPZ_LAB\\Buying_form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:15:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Timetable_form.cs",
+              "DocumentMoniker": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Timetable_form.cs",
+              "RelativeDocumentMoniker": "IPZ_LAB\\Timetable_form.cs",
+              "ToolTip": "C:\\Users\\tokar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0406\u041F\u0417_\u041F\u0420\u0418\u0419\u041C\u0410\u041A\\LAB_2\\IPZ_LAB\\IPZ_LAB\\Timetable_form.cs",
+              "RelativeToolTip": "IPZ_LAB\\Timetable_form.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:01:44.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

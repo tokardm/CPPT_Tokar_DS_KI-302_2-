@@ -1,0 +1,77 @@
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Form1.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Login_form.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration_form.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Search_form.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Timetable_form.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Start_Window_form.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Info_form.resources
+C:\Users\User\source\repos\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Ticket_Booking_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Info_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Search_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Form1.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Login_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Start_Window_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Ticket_Booking_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Timetable_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CopyComplete
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Buying_form.resources
+C:\Users\User\Documents\ipz_1_struk\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.dataGridForm.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csprojAssemblyReference.cache
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Buying_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.dataGridForm.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Info_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Search_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Form1.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Login_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Start_Window_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Ticket_Booking_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Timetable_form.resources
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\AdminPC\Desktop\ІПЗ\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.AssemblyReference.cache
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Buying_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.dataGridForm.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Info_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Film_Search_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Form1.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Login_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Properties.Resources.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Registration_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Start_Window_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Ticket_Booking_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.Timetable_form.resources
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.GenerateResource.cache
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.CoreCompileInputs.cache
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.exe
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.pdb
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe.config
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.exe
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\IPZ_LAB.pdb
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\LAB_2\IPZ_LAB\IPZ_LAB\obj\Debug\IPZ_LAB.csproj.Up2Date

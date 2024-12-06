@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD582E48-FFC8-4B5E-B7E8-A3328E48F783}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IPZ_LAB</RootNamespace>
+    <AssemblyName>IPZ_LAB</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Buying_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buying_form.Designer.cs">
+      <DependentUpon>Buying_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataGridForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dataGridForm.Designer.cs">
+      <DependentUpon>dataGridForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film_Info_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film_Info_form.Designer.cs">
+      <DependentUpon>Film_Info_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film_Search_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film_Search_form.Designer.cs">
+      <DependentUpon>Film_Search_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_form.Designer.cs">
+      <DependentUpon>Login_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration_form.Designer.cs">
+      <DependentUpon>Registration_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start_Window_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start_Window_form.Designer.cs">
+      <DependentUpon>Start_Window_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ticket_Booking_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket_Booking_form.Designer.cs">
+      <DependentUpon>Ticket_Booking_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Timetable_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timetable_form.Designer.cs">
+      <DependentUpon>Timetable_form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Buying_form.resx">
+      <DependentUpon>Buying_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dataGridForm.resx">
+      <DependentUpon>dataGridForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film_Info_form.resx">
+      <DependentUpon>Film_Info_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film_Search_form.resx">
+      <DependentUpon>Film_Search_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_form.resx">
+      <DependentUpon>Login_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registration_form.resx">
+      <DependentUpon>Registration_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start_Window_form.resx">
+      <DependentUpon>Start_Window_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ticket_Booking_form.resx">
+      <DependentUpon>Ticket_Booking_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timetable_form.resx">
+      <DependentUpon>Timetable_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Pictures\BD-Misti-Blue-115.jpg" />
+    <Content Include="Pictures\film_info_background.jpg" />
+    <Content Include="Pictures\scheme_654.jpg" />
+    <Content Include="Pictures\search_film_background.jpg" />
+    <Content Include="Pictures\login_background.jpg" />
+    <Content Include="Pictures\main_background.jpg" />
+    <Content Include="Pictures\registration_background.jpg" />
+    <Content Include="Pictures\start_window_backgroung.jpeg" />
+    <Content Include="Pictures\ticket_booking_background.jpg" />
+    <Content Include="Pictures\timetable_background.png" />
+    <None Include="Resources\ticket_booking_background.jpg" />
+    <None Include="Resources\u.jpg" />
+    <None Include="Resources\BD-Misti-Blue-115.jpg" />
+    <None Include="Resources\scheme_654.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

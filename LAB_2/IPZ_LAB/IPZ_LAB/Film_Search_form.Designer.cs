@@ -1,0 +1,188 @@
+﻿namespace IPZ_LAB
+{
+    partial class Film_Search_form
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.pictureBox = new System.Windows.Forms.PictureBox();
+            this.Cancel_button = new System.Windows.Forms.Button();
+            this.Search_button = new System.Windows.Forms.Button();
+            this.Back_button = new System.Windows.Forms.Button();
+            this.Hide_button = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.dg = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dg)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pictureBox
+            // 
+            this.pictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox.Image = global::IPZ_LAB.Properties.Resources.search_film_background;
+            this.pictureBox.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox.Name = "pictureBox";
+            this.pictureBox.Size = new System.Drawing.Size(800, 450);
+            this.pictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox.TabIndex = 0;
+            this.pictureBox.TabStop = false;
+            this.pictureBox.Click += new System.EventHandler(this.pictureBox_Click);
+            this.pictureBox.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox_MouseDown);
+            this.pictureBox.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox_MouseMove);
+            // 
+            // Cancel_button
+            // 
+            this.Cancel_button.BackColor = System.Drawing.Color.White;
+            this.Cancel_button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Cancel_button.FlatAppearance.BorderSize = 0;
+            this.Cancel_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Cancel_button.Location = new System.Drawing.Point(701, 0);
+            this.Cancel_button.Name = "Cancel_button";
+            this.Cancel_button.Size = new System.Drawing.Size(99, 30);
+            this.Cancel_button.TabIndex = 4;
+            this.Cancel_button.Text = "Закрити\r\n";
+            this.Cancel_button.UseVisualStyleBackColor = false;
+            this.Cancel_button.Click += new System.EventHandler(this.Cancel_button_Click);
+            // 
+            // Search_button
+            // 
+            this.Search_button.BackColor = System.Drawing.Color.Black;
+            this.Search_button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Search_button.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.Search_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Search_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Search_button.ForeColor = System.Drawing.Color.White;
+            this.Search_button.Location = new System.Drawing.Point(0, 406);
+            this.Search_button.Name = "Search_button";
+            this.Search_button.Size = new System.Drawing.Size(800, 44);
+            this.Search_button.TabIndex = 5;
+            this.Search_button.Text = "Пошук";
+            this.Search_button.UseVisualStyleBackColor = false;
+            this.Search_button.Click += new System.EventHandler(this.Search_button_Click);
+            // 
+            // Back_button
+            // 
+            this.Back_button.BackColor = System.Drawing.Color.White;
+            this.Back_button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Back_button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.Back_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Back_button.ForeColor = System.Drawing.Color.Black;
+            this.Back_button.Location = new System.Drawing.Point(0, 407);
+            this.Back_button.Name = "Back_button";
+            this.Back_button.Size = new System.Drawing.Size(146, 43);
+            this.Back_button.TabIndex = 8;
+            this.Back_button.Text = "НАЗАД";
+            this.Back_button.UseVisualStyleBackColor = false;
+            this.Back_button.Click += new System.EventHandler(this.Back_button_Click);
+            // 
+            // Hide_button
+            // 
+            this.Hide_button.BackColor = System.Drawing.Color.White;
+            this.Hide_button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Hide_button.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.Hide_button.Location = new System.Drawing.Point(665, 0);
+            this.Hide_button.Name = "Hide_button";
+            this.Hide_button.Size = new System.Drawing.Size(30, 30);
+            this.Hide_button.TabIndex = 9;
+            this.Hide_button.Text = "_";
+            this.Hide_button.UseVisualStyleBackColor = false;
+            this.Hide_button.Click += new System.EventHandler(this.Hide_button_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.21F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(277, 130);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(248, 39);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Виберіть жанр";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Fantasy",
+            "Drama",
+            "Detective",
+            "Musical",
+            "Disaster",
+            "Comedy",
+            "Action"});
+            this.comboBox1.Location = new System.Drawing.Point(278, 182);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(247, 24);
+            this.comboBox1.TabIndex = 11;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            // 
+            // dg
+            // 
+            this.dg.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dg.Location = new System.Drawing.Point(27, 50);
+            this.dg.Name = "dg";
+            this.dg.RowTemplate.Height = 24;
+            this.dg.Size = new System.Drawing.Size(742, 197);
+            this.dg.TabIndex = 12;
+            // 
+            // Film_Search_form
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.Hide_button);
+            this.Controls.Add(this.Back_button);
+            this.Controls.Add(this.Search_button);
+            this.Controls.Add(this.Cancel_button);
+            this.Controls.Add(this.pictureBox);
+            this.Controls.Add(this.dg);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "Film_Search_form";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Film_Search_form";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dg)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox;
+        private System.Windows.Forms.Button Cancel_button;
+        private System.Windows.Forms.Button Search_button;
+        private System.Windows.Forms.Button Back_button;
+        private System.Windows.Forms.Button Hide_button;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.DataGridView dg;
+    }
+}

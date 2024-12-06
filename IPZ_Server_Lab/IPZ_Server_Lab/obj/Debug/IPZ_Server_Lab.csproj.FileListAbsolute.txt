@@ -1,0 +1,20 @@
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\IPZ_Server_Lab.exe.config
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\IPZ_Server_Lab.exe
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\IPZ_Server_Lab.pdb
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.csprojAssemblyReference.cache
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.exe
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.pdb
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\ipz_1_struk\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.csproj.CopyComplete
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.csproj.AssemblyReference.cache
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.csproj.CoreCompileInputs.cache
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.exe
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Server_Lab.pdb
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\IPZ_Server_Lab.exe.config
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\IPZ_Server_Lab.exe
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\IPZ_Server_Lab.pdb
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tokar\OneDrive\Рабочий стол\ІПЗ_ПРИЙМАК\IPZ_Server_Lab\IPZ_Server_Lab\obj\Debug\IPZ_Serv.F2685152.Up2Date
